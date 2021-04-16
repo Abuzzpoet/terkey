@@ -19,7 +19,7 @@ def setup():
 def banner():
     os.system('clear')
     print(a+'Shortcut for help you'.center(40))
-    print(b+'Drawl Nag'.center(40))
+    print(b+'Abuzzpoet'.center(40))
     print("".join([i for i in "\n"*3]))
 
 
